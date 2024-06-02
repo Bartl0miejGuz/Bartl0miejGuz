@@ -1,5 +1,5 @@
 ## Hello World! 👋
- page work in progress..
+## page work in progress..
 <!--
 **Bartl0miejGuz/Bartl0miejGuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
